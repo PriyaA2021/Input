@@ -11,7 +11,7 @@ namespace Input
             num = Convert.ToInt32(Console.ReadLine());
             if(num == 1)
             {
-                Console.WriteLine(num.ToString() + "your chosen number ");
+                Console.WriteLine(num.ToString() + " your chosen number ");
             }
             else if(num==2)
             {
